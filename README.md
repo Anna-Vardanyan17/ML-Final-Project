@@ -1,6 +1,6 @@
 # ML-Final-Project
 ML Final Project
-
+All code in the master tab.
 Stock market Clustering 
 Motivation & Goals:
 With more than 10,000 companies available for investment solely in the USA, how should a young investor decide which company to invest in? This dilemma often leads them towards the more familiar and prominent names in the industry, such as TSLA, SPY, APPL, etc. 

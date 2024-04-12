@@ -1,4 +1,4 @@
-# ML-Final-Project
+# ML-Final-Project stock market clustering 
 ML Final Project
 All code in the master tab.
 Stock market Clustering 
